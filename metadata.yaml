@@ -1,11 +1,16 @@
 _repo: Hor0xe6-Nause0xe6_66301
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66301-h/images/cover.jpg
 creator:
   author:
     agent_name: Peel, Lawrence
     gutenberg_agent_id: '53737'
     url: http://www.gutenberg.org/2009/agents/53737
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66301#Hor0xe6-Nause0xe6
 gutenberg_issued: '2021-09-14'
 identifiers:
   gutenberg: '66301'
